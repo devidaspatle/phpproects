@@ -1,0 +1,14 @@
+[01-Feb-2020 09:33:43 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/zerodiab/public_html/website/includes/db_config.php on line 2
+[01-Feb-2020 09:33:43 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zerodiab/public_html/website/login_code.php on line 3
+[01-Feb-2020 09:33:43 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zerodiab/public_html/website/login_code.php on line 13
+[01-Feb-2020 09:33:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/zerodiab/public_html/website/login_code.php on line 14
+[01-Feb-2020 09:33:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/zerodiab/public_html/website/login_code.php on line 16
+[01-Feb-2020 09:33:43 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zerodiab/public_html/website/includes/db_config.php:5) in /home/zerodiab/public_html/website/login_code.php on line 26
+[01-Feb-2020 09:35:39 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/zerodiab/public_html/website/includes/db_config.php on line 2
+[01-Feb-2020 09:35:39 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/zerodiab/public_html/website/login_code.php on line 3
+[01-Feb-2020 09:35:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/zerodiab/public_html/website/login_code.php on line 13
+[01-Feb-2020 09:35:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/zerodiab/public_html/website/login_code.php on line 14
+[01-Feb-2020 09:35:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/zerodiab/public_html/website/login_code.php on line 16
+[01-Feb-2020 09:35:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zerodiab/public_html/website/includes/db_config.php:5) in /home/zerodiab/public_html/website/login_code.php on line 26
+[06-Feb-2020 12:13:55 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/website/login_code.php on line 14
+[06-Feb-2020 12:13:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/website/login_code.php on line 16

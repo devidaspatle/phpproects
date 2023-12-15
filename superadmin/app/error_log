@@ -1,0 +1,2 @@
+[01-Feb-2020 09:39:05 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/zerodiab/public_html/website/superadmin/app/Centre.php on line 7
+[01-Feb-2020 09:39:09 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/zerodiab/public_html/website/superadmin/app/Centre.php on line 7

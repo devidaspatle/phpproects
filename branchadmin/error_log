@@ -1,0 +1,316 @@
+[24-Jan-2020 05:55:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/zerodiabetes/manage_birthday.php on line 7
+[24-Jan-2020 05:55:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/zerodiabetes/manage_birthday.php on line 442
+[24-Jan-2020 06:03:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/zerodiabetes/employee_registration.php on line 6
+[24-Jan-2020 06:03:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/zerodiabetes/employee_registration.php on line 459
+[24-Jan-2020 06:03:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/zerodiabetes/create_employee_registration.php on line 5
+[24-Jan-2020 06:03:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/zerodiabetes/create_employee_registration.php on line 501
+[24-Jan-2020 06:03:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/zerodiabetes/create_employee_registration.php on line 724
+[24-Jan-2020 06:08:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/zerodiabetes/employee_registration.php on line 6
+[24-Jan-2020 06:08:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/zerodiabetes/employee_registration.php on line 459
+[24-Jan-2020 06:09:45 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/zerodiabetes/create_employee_registration.php on line 5
+[24-Jan-2020 06:09:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/zerodiabetes/create_employee_registration.php on line 501
+[24-Jan-2020 06:09:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/zerodiabetes/create_employee_registration.php on line 724
+[24-Jan-2020 06:15:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/zerodiabetes/employee_registration.php on line 6
+[24-Jan-2020 06:15:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/zerodiabetes/employee_registration.php on line 459
+[24-Jan-2020 07:28:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/zerodiabetes/edit_user.php on line 9
+[24-Jan-2020 07:28:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/zerodiabetes/edit_user.php on line 588
+[24-Jan-2020 07:29:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/zerodiabetes/employee_registration.php on line 6
+[24-Jan-2020 07:29:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/zerodiabetes/employee_registration.php on line 459
+[24-Jan-2020 07:37:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/zerodiabetes/manage_permission.php on line 5
+[24-Jan-2020 07:37:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/zerodiabetes/manage_permission.php on line 9
+[24-Jan-2020 07:37:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/zerodiabetes/manage_permission.php on line 447
+[24-Jan-2020 07:37:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/zerodiabetes/manage_permission.php on line 496
+[24-Jan-2020 07:49:20 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/zerodiabetes/manage_permission.php on line 5
+[24-Jan-2020 07:49:20 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/zerodiabetes/manage_permission.php on line 9
+[24-Jan-2020 07:49:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/zerodiabetes/manage_permission.php on line 447
+[24-Jan-2020 07:49:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/zerodiabetes/manage_permission.php on line 496
+[27-Jan-2020 11:41:28 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[27-Jan-2020 11:41:28 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[27-Jan-2020 11:41:28 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[27-Jan-2020 11:42:24 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[27-Jan-2020 11:42:24 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[27-Jan-2020 11:42:24 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[27-Jan-2020 11:43:35 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[27-Jan-2020 11:43:35 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[27-Jan-2020 11:43:35 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[27-Jan-2020 12:00:58 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/manage_prescription.php on line 180
+[27-Jan-2020 12:00:58 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/manage_prescription.php on line 180
+[27-Jan-2020 12:00:58 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/zerodiab/public_html/zerodiabetes/manage_prescription.php on line 180
+[28-Jan-2020 05:53:48 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[28-Jan-2020 05:53:48 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[28-Jan-2020 05:53:48 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[28-Jan-2020 05:57:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/zerodiabetes/employee_registration.php on line 6
+[28-Jan-2020 05:57:11 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/employee_registration.php on line 181
+[28-Jan-2020 05:57:11 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/employee_registration.php on line 181
+[28-Jan-2020 05:57:11 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/zerodiab/public_html/zerodiabetes/employee_registration.php on line 181
+[28-Jan-2020 05:57:11 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/zerodiabetes/employee_registration.php on line 459
+[28-Jan-2020 05:57:26 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/manage_prescription.php on line 180
+[28-Jan-2020 05:57:26 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/manage_prescription.php on line 180
+[28-Jan-2020 05:57:26 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/zerodiab/public_html/zerodiabetes/manage_prescription.php on line 180
+[28-Jan-2020 06:06:13 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[28-Jan-2020 06:06:13 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[28-Jan-2020 06:06:13 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[30-Jan-2020 05:09:43 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[30-Jan-2020 05:09:43 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[30-Jan-2020 05:09:43 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[30-Jan-2020 05:10:17 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/create_patient_registration.php on line 174
+[30-Jan-2020 05:10:17 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/create_patient_registration.php on line 174
+[30-Jan-2020 05:10:17 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/zerodiab/public_html/zerodiabetes/create_patient_registration.php on line 174
+[30-Jan-2020 05:10:39 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[30-Jan-2020 05:10:39 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[30-Jan-2020 05:10:39 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[30-Jan-2020 05:10:51 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/create_patient_registration.php on line 174
+[30-Jan-2020 05:10:51 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/create_patient_registration.php on line 174
+[30-Jan-2020 05:10:51 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/zerodiab/public_html/zerodiabetes/create_patient_registration.php on line 174
+[30-Jan-2020 05:15:59 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[30-Jan-2020 05:15:59 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[30-Jan-2020 05:15:59 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[31-Jan-2020 06:17:20 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[31-Jan-2020 06:17:20 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[31-Jan-2020 06:17:20 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[31-Jan-2020 06:17:46 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[31-Jan-2020 06:17:46 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[31-Jan-2020 06:17:46 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[31-Jan-2020 06:19:53 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/create_patient_registration.php on line 174
+[31-Jan-2020 06:19:53 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/create_patient_registration.php on line 174
+[31-Jan-2020 06:19:53 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/zerodiab/public_html/zerodiabetes/create_patient_registration.php on line 174
+[31-Jan-2020 06:19:59 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[31-Jan-2020 06:19:59 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[31-Jan-2020 06:19:59 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[31-Jan-2020 06:23:05 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[31-Jan-2020 06:23:05 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[31-Jan-2020 06:23:05 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[31-Jan-2020 06:44:43 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[31-Jan-2020 06:44:43 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[31-Jan-2020 06:44:43 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[31-Jan-2020 06:44:53 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/create_patient_registration.php on line 174
+[31-Jan-2020 06:44:53 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/create_patient_registration.php on line 174
+[31-Jan-2020 06:44:53 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/zerodiab/public_html/zerodiabetes/create_patient_registration.php on line 174
+[31-Jan-2020 06:47:26 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[31-Jan-2020 06:47:26 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[31-Jan-2020 06:47:26 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[31-Jan-2020 09:01:32 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[31-Jan-2020 09:01:32 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[31-Jan-2020 09:01:32 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[31-Jan-2020 09:02:16 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[31-Jan-2020 09:02:16 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[31-Jan-2020 09:02:16 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[04-Feb-2020 04:21:02 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[04-Feb-2020 04:21:02 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[04-Feb-2020 04:21:02 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[04-Feb-2020 04:21:26 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/manage_prescription.php on line 180
+[04-Feb-2020 04:21:26 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/manage_prescription.php on line 180
+[04-Feb-2020 04:21:26 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/zerodiab/public_html/zerodiabetes/manage_prescription.php on line 180
+[04-Feb-2020 05:55:19 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[04-Feb-2020 05:55:19 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[04-Feb-2020 05:55:19 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[05-Feb-2020 05:54:18 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[05-Feb-2020 05:54:18 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[05-Feb-2020 05:54:18 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[05-Feb-2020 05:54:42 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[05-Feb-2020 05:54:42 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[05-Feb-2020 05:54:42 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[05-Feb-2020 05:54:48 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/create_patient_registration.php on line 174
+[05-Feb-2020 05:54:48 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/create_patient_registration.php on line 174
+[05-Feb-2020 05:54:48 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/zerodiab/public_html/zerodiabetes/create_patient_registration.php on line 174
+[05-Feb-2020 05:55:04 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[05-Feb-2020 05:55:04 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[05-Feb-2020 05:55:04 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/zerodiab/public_html/zerodiabetes/dashboard.php on line 485
+[05-Feb-2020 05:55:12 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/create_patient_registration.php on line 174
+[05-Feb-2020 05:55:12 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/zerodiabetes/create_patient_registration.php on line 174
+[05-Feb-2020 05:55:12 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/zerodiab/public_html/zerodiabetes/create_patient_registration.php on line 174
+[05-Feb-2020 06:48:09 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/branchadmin/dashboard.php on line 485
+[05-Feb-2020 06:48:09 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/branchadmin/dashboard.php on line 485
+[05-Feb-2020 06:48:09 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/zerodiab/public_html/branchadmin/dashboard.php on line 485
+[05-Feb-2020 06:50:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/branchadmin/dashboard.php on line 9
+[05-Feb-2020 06:50:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/branchadmin/dashboard.php on line 15
+[05-Feb-2020 06:50:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/branchadmin/dashboard.php on line 21
+[05-Feb-2020 06:50:51 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/branchadmin/dashboard.php on line 485
+[05-Feb-2020 06:50:51 UTC] PHP Warning:  include(header.php): failed to open stream: No such file or directory in /home/zerodiab/public_html/branchadmin/dashboard.php on line 485
+[05-Feb-2020 06:50:51 UTC] PHP Warning:  include(): Failed opening 'header.php' for inclusion (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/zerodiab/public_html/branchadmin/dashboard.php on line 485
+[05-Feb-2020 06:50:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/branchadmin/dashboard.php on line 1188
+[05-Feb-2020 06:50:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/branchadmin/dashboard.php on line 1294
+[05-Feb-2020 11:03:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zerodiab/public_html/branchadmin/login_code.php:25) in /home/zerodiab/public_html/branchadmin/login_code.php on line 38
+[05-Feb-2020 11:04:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/branchadmin/create_patient_registration.php on line 536
+[05-Feb-2020 11:04:38 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/branchadmin/create_patient_registration.php on line 536
+[06-Feb-2020 11:05:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zerodiab/public_html/branchadmin/dashboard.php:26) in /home/zerodiab/public_html/branchadmin/includes/check_session.php on line 6
+[11-Feb-2020 10:36:50 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/zerodiab/public_html/branchadmin/create_prescription_detail.php on line 1187
+[11-Feb-2020 10:36:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/zerodiab/public_html/branchadmin/create_prescription_detail.php on line 1187
+[12-Feb-2020 10:26:39 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/zerodiab/public_html/branchadmin/investigations_code.php on line 24
+[12-Feb-2020 10:30:11 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/zerodiab/public_html/branchadmin/investigations_code.php on line 24
+[12-Feb-2020 10:38:16 UTC] PHP Parse error:  syntax error, unexpected '$diabetes' (T_VARIABLE) in /home/zerodiab/public_html/branchadmin/investigations_code.php on line 20
+[12-Feb-2020 10:39:05 UTC] PHP Parse error:  syntax error, unexpected '$diabetes' (T_VARIABLE) in /home/zerodiab/public_html/branchadmin/investigations_code.php on line 20
+[12-Feb-2020 10:39:30 UTC] PHP Parse error:  syntax error, unexpected '$diabetes' (T_VARIABLE) in /home/zerodiab/public_html/branchadmin/investigations_code.php on line 20
+[12-Feb-2020 10:40:16 UTC] PHP Parse error:  syntax error, unexpected '$diabetes' (T_VARIABLE) in /home/zerodiab/public_html/branchadmin/investigations_code.php on line 20
+[12-Feb-2020 10:40:48 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/zerodiab/public_html/branchadmin/investigations_code.php on line 20
+[12-Feb-2020 10:49:48 UTC] PHP Parse error:  syntax error, unexpected '$values' (T_VARIABLE) in /home/zerodiab/public_html/branchadmin/investigations_code.php on line 21
+[12-Feb-2020 10:49:51 UTC] PHP Parse error:  syntax error, unexpected '$values' (T_VARIABLE) in /home/zerodiab/public_html/branchadmin/investigations_code.php on line 21
+[12-Feb-2020 10:51:58 UTC] PHP Parse error:  syntax error, unexpected '$values' (T_VARIABLE) in /home/zerodiab/public_html/branchadmin/investigations_code.php on line 22
+[12-Feb-2020 10:52:40 UTC] PHP Parse error:  syntax error, unexpected '$values' (T_VARIABLE) in /home/zerodiab/public_html/branchadmin/investigations_code.php on line 22
+[12-Feb-2020 10:53:45 UTC] PHP Parse error:  syntax error, unexpected '$values' (T_VARIABLE) in /home/zerodiab/public_html/branchadmin/investigations_code.php on line 22
+[12-Feb-2020 10:53:47 UTC] PHP Parse error:  syntax error, unexpected '$values' (T_VARIABLE) in /home/zerodiab/public_html/branchadmin/investigations_code.php on line 22
+[12-Feb-2020 10:53:49 UTC] PHP Parse error:  syntax error, unexpected '$values' (T_VARIABLE) in /home/zerodiab/public_html/branchadmin/investigations_code.php on line 22
+[12-Feb-2020 10:53:52 UTC] PHP Parse error:  syntax error, unexpected '$values' (T_VARIABLE) in /home/zerodiab/public_html/branchadmin/investigations_code.php on line 22
+[12-Feb-2020 10:54:19 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/zerodiab/public_html/branchadmin/investigations_code.php on line 31
+[12-Feb-2020 10:54:21 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/zerodiab/public_html/branchadmin/investigations_code.php on line 31
+[12-Feb-2020 10:55:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/zerodiab/public_html/branchadmin/investigations_code.php on line 26
+[12-Feb-2020 10:55:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/zerodiab/public_html/branchadmin/investigations_code.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/zerodiab/public_html/branchadmin/investigations_code.php on line 31
+[12-Feb-2020 10:56:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/zerodiab/public_html/branchadmin/investigations_code.php on line 26
+[12-Feb-2020 10:56:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/zerodiab/public_html/branchadmin/investigations_code.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/zerodiab/public_html/branchadmin/investigations_code.php on line 31
+[12-Feb-2020 10:56:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/zerodiab/public_html/branchadmin/investigations_code.php on line 26
+[12-Feb-2020 10:56:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_error() in /home/zerodiab/public_html/branchadmin/investigations_code.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/zerodiab/public_html/branchadmin/investigations_code.php on line 31
+[12-Feb-2020 10:57:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/zerodiab/public_html/branchadmin/investigations_code.php on line 26
+[12-Feb-2020 10:59:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/zerodiab/public_html/branchadmin/investigations_code.php on line 26
+[12-Feb-2020 11:01:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/zerodiab/public_html/branchadmin/investigations_code.php on line 26
+[12-Feb-2020 11:03:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/zerodiab/public_html/branchadmin/investigations_code.php on line 26
+[12-Feb-2020 11:03:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/zerodiab/public_html/branchadmin/investigations_code.php on line 26
+[12-Feb-2020 11:03:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/zerodiab/public_html/branchadmin/investigations_code.php on line 26
+[12-Feb-2020 11:03:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/zerodiab/public_html/branchadmin/investigations_code.php on line 26
+[12-Feb-2020 11:06:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/zerodiab/public_html/branchadmin/investigations_code.php on line 26
+[12-Feb-2020 11:07:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/zerodiab/public_html/branchadmin/investigations_code.php on line 26
+[12-Feb-2020 11:07:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/zerodiab/public_html/branchadmin/investigations_code.php on line 26
+[12-Feb-2020 11:07:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/zerodiab/public_html/branchadmin/investigations_code.php on line 23
+[12-Feb-2020 11:08:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/zerodiab/public_html/branchadmin/investigations_code.php on line 23
+[12-Feb-2020 11:08:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/zerodiab/public_html/branchadmin/investigations_code.php on line 23
+[12-Feb-2020 11:09:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/zerodiab/public_html/branchadmin/investigations_code.php on line 23
+[12-Feb-2020 11:09:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/zerodiab/public_html/branchadmin/investigations_code.php on line 23
+[12-Feb-2020 11:09:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/zerodiab/public_html/branchadmin/investigations_code.php on line 23
+[12-Feb-2020 11:09:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/zerodiab/public_html/branchadmin/investigations_code.php on line 23
+[12-Feb-2020 11:10:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/zerodiab/public_html/branchadmin/investigations_code.php on line 23
+[12-Feb-2020 11:12:47 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/zerodiab/public_html/branchadmin/investigations_code.php on line 22
+[12-Feb-2020 11:12:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/zerodiab/public_html/branchadmin/investigations_code.php on line 23
+[12-Feb-2020 11:13:07 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/zerodiab/public_html/branchadmin/investigations_code.php on line 22
+[12-Feb-2020 11:13:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/zerodiab/public_html/branchadmin/investigations_code.php on line 23
+[12-Feb-2020 11:13:13 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/zerodiab/public_html/branchadmin/investigations_code.php on line 22
+[12-Feb-2020 11:13:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/zerodiab/public_html/branchadmin/investigations_code.php on line 23
+[12-Feb-2020 11:14:40 UTC] PHP Fatal error:  Cannot use [] for reading in /home/zerodiab/public_html/branchadmin/investigations_code.php on line 26
+[12-Feb-2020 11:15:12 UTC] PHP Fatal error:  Cannot use [] for reading in /home/zerodiab/public_html/branchadmin/investigations_code.php on line 27
+[12-Feb-2020 11:16:25 UTC] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/zerodiab/public_html/branchadmin/investigations_code.php on line 22
+[12-Feb-2020 11:17:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/zerodiab/public_html/branchadmin/investigations_code.php on line 24
+[12-Feb-2020 11:17:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/zerodiab/public_html/branchadmin/investigations_code.php on line 24
+[12-Feb-2020 11:17:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/zerodiab/public_html/branchadmin/investigations_code.php on line 24
+[12-Feb-2020 11:17:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/zerodiab/public_html/branchadmin/investigations_code.php on line 24
+[12-Feb-2020 11:18:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/zerodiab/public_html/branchadmin/investigations_code.php on line 24
+[12-Feb-2020 11:19:28 UTC] PHP Fatal error:  Cannot use [] for reading in /home/zerodiab/public_html/branchadmin/investigations_code.php on line 26
+[12-Feb-2020 11:38:20 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/zerodiab/public_html/branchadmin/investigations_code.php on line 26
+[12-Feb-2020 11:38:20 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/zerodiab/public_html/branchadmin/investigations_code.php on line 26
+[12-Feb-2020 11:38:20 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/zerodiab/public_html/branchadmin/investigations_code.php on line 26
+[12-Feb-2020 11:44:19 UTC] PHP Parse error:  syntax error, unexpected ']', expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/zerodiab/public_html/branchadmin/investigations_code.php on line 26
+[12-Feb-2020 11:50:36 UTC] PHP Fatal error:  Cannot use [] for reading in /home/zerodiab/public_html/branchadmin/investigations_code.php on line 25
+[12-Feb-2020 12:57:38 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/zerodiab/public_html/branchadmin/views_allopathic_medicine.php on line 364
+[12-Feb-2020 13:31:39 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/zerodiab/public_html/branchadmin/create_prescription_detail.php on line 674
+[12-Feb-2020 14:03:50 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/zerodiab/public_html/branchadmin/prescription_code.php on line 19
+[12-Feb-2020 14:03:50 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/zerodiab/public_html/branchadmin/prescription_code.php on line 20
+[12-Feb-2020 14:03:50 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/zerodiab/public_html/branchadmin/prescription_code.php on line 21
+[12-Feb-2020 14:03:50 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/zerodiab/public_html/branchadmin/prescription_code.php on line 22
+[12-Feb-2020 14:03:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/zerodiab/public_html/branchadmin/prescription_code.php on line 26
+[12-Feb-2020 14:04:51 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/zerodiab/public_html/branchadmin/prescription_code.php on line 19
+[12-Feb-2020 14:04:51 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/zerodiab/public_html/branchadmin/prescription_code.php on line 20
+[12-Feb-2020 14:04:51 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/zerodiab/public_html/branchadmin/prescription_code.php on line 21
+[12-Feb-2020 14:04:51 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/zerodiab/public_html/branchadmin/prescription_code.php on line 22
+[12-Feb-2020 14:04:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/zerodiab/public_html/branchadmin/prescription_code.php on line 26
+[12-Feb-2020 14:05:07 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/zerodiab/public_html/branchadmin/prescription_code.php on line 19
+[12-Feb-2020 14:05:07 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/zerodiab/public_html/branchadmin/prescription_code.php on line 20
+[12-Feb-2020 14:05:07 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/zerodiab/public_html/branchadmin/prescription_code.php on line 21
+[12-Feb-2020 14:05:07 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/zerodiab/public_html/branchadmin/prescription_code.php on line 22
+[12-Feb-2020 14:06:34 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/zerodiab/public_html/branchadmin/prescription_code.php on line 19
+[12-Feb-2020 14:06:34 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/zerodiab/public_html/branchadmin/prescription_code.php on line 20
+[12-Feb-2020 14:06:34 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/zerodiab/public_html/branchadmin/prescription_code.php on line 21
+[12-Feb-2020 14:06:34 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/zerodiab/public_html/branchadmin/prescription_code.php on line 22
+[12-Feb-2020 14:07:39 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/zerodiab/public_html/branchadmin/prescription_code.php on line 22
+[12-Feb-2020 14:09:00 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/zerodiab/public_html/branchadmin/prescription_code.php on line 22
+[12-Feb-2020 14:11:26 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/zerodiab/public_html/branchadmin/prescription_code.php on line 22
+[12-Feb-2020 14:11:50 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/zerodiab/public_html/branchadmin/prescription_code.php on line 22
+[12-Feb-2020 14:11:54 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/zerodiab/public_html/branchadmin/prescription_code.php on line 22
+[12-Feb-2020 14:12:17 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/zerodiab/public_html/branchadmin/prescription_code.php on line 22
+[12-Feb-2020 14:13:05 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/zerodiab/public_html/branchadmin/prescription_code.php on line 22
+[12-Feb-2020 14:16:06 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/zerodiab/public_html/branchadmin/prescription_code.php on line 22
+[12-Feb-2020 14:20:36 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/zerodiab/public_html/branchadmin/prescription_code.php on line 22
+[13-Feb-2020 10:34:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/branchadmin/manage_prescription.php on line 913
+[13-Feb-2020 10:34:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/branchadmin/manage_prescription.php on line 913
+[13-Feb-2020 11:05:22 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/zerodiab/public_html/branchadmin/prescription_code.php on line 22
+[13-Feb-2020 11:19:50 UTC] PHP Parse error:  syntax error, unexpected '$exploded' (T_VARIABLE) in /home/zerodiab/public_html/branchadmin/view_prescription_detail.php on line 469
+[13-Feb-2020 11:19:52 UTC] PHP Parse error:  syntax error, unexpected '$exploded' (T_VARIABLE) in /home/zerodiab/public_html/branchadmin/view_prescription_detail.php on line 469
+[14-Feb-2020 06:06:58 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/branchadmin/manage_customer.php on line 5
+[14-Feb-2020 06:06:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/branchadmin/manage_customer.php on line 461
+[14-Feb-2020 06:06:59 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/branchadmin/manage_customer.php on line 5
+[14-Feb-2020 06:06:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/branchadmin/manage_customer.php on line 461
+[14-Feb-2020 06:07:34 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/branchadmin/manage_customer.php on line 5
+[14-Feb-2020 06:07:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/branchadmin/manage_customer.php on line 461
+[14-Feb-2020 06:07:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/branchadmin/manage_customer.php on line 5
+[14-Feb-2020 06:07:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/branchadmin/manage_customer.php on line 461
+[14-Feb-2020 06:07:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/branchadmin/manage_customer.php on line 5
+[14-Feb-2020 06:07:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/branchadmin/manage_customer.php on line 461
+[14-Feb-2020 06:07:47 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/branchadmin/manage_customer.php on line 5
+[14-Feb-2020 06:07:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/branchadmin/manage_customer.php on line 461
+[14-Feb-2020 06:08:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/branchadmin/manage_customer.php on line 5
+[14-Feb-2020 06:08:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/branchadmin/manage_customer.php on line 461
+[14-Feb-2020 06:08:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/branchadmin/manage_customer.php on line 5
+[14-Feb-2020 06:08:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/branchadmin/manage_customer.php on line 461
+[14-Feb-2020 06:08:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/branchadmin/manage_customer.php on line 5
+[14-Feb-2020 06:08:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/branchadmin/manage_customer.php on line 461
+[14-Feb-2020 06:08:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/branchadmin/manage_customer.php on line 5
+[14-Feb-2020 06:08:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/branchadmin/manage_customer.php on line 461
+[14-Feb-2020 06:09:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/branchadmin/manage_customer.php on line 5
+[14-Feb-2020 06:09:35 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/branchadmin/manage_customer.php on line 461
+[14-Feb-2020 06:09:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/branchadmin/manage_customer.php on line 5
+[14-Feb-2020 06:09:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/branchadmin/manage_customer.php on line 461
+[14-Feb-2020 06:13:08 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/zerodiab/public_html/branchadmin/prescription_code.php on line 22
+[14-Feb-2020 06:29:47 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/zerodiab/public_html/branchadmin/prescription_code.php on line 22
+[14-Feb-2020 08:59:08 UTC] PHP Warning:  implode(): Invalid arguments passed in /home/zerodiab/public_html/branchadmin/prescription_code.php on line 22
+[14-Feb-2020 11:56:45 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/zerodiab/public_html/branchadmin/view_patient_record.php on line 1263
+[14-Feb-2020 11:59:18 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/zerodiab/public_html/branchadmin/view_patient_record.php on line 1230
+[14-Feb-2020 11:59:21 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/zerodiab/public_html/branchadmin/view_patient_record.php on line 1230
+[14-Feb-2020 12:01:02 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/zerodiab/public_html/branchadmin/view_patient_record.php on line 1230
+[14-Feb-2020 12:01:03 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/zerodiab/public_html/branchadmin/view_patient_record.php on line 1230
+[14-Feb-2020 12:01:36 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/zerodiab/public_html/branchadmin/view_patient_record.php on line 1114
+[14-Feb-2020 12:01:38 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/zerodiab/public_html/branchadmin/view_patient_record.php on line 1114
+[14-Feb-2020 12:02:00 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/zerodiab/public_html/branchadmin/view_patient_record.php on line 1184
+[14-Feb-2020 12:02:01 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/zerodiab/public_html/branchadmin/view_patient_record.php on line 1184
+[14-Feb-2020 12:02:02 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/zerodiab/public_html/branchadmin/view_patient_record.php on line 1184
+[14-Feb-2020 12:02:03 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/zerodiab/public_html/branchadmin/view_patient_record.php on line 1184
+[14-Feb-2020 12:02:03 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/zerodiab/public_html/branchadmin/view_patient_record.php on line 1184
+[14-Feb-2020 12:02:41 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/zerodiab/public_html/branchadmin/view_patient_record.php on line 1194
+[14-Feb-2020 12:02:42 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/zerodiab/public_html/branchadmin/view_patient_record.php on line 1194
+[17-Feb-2020 06:26:34 UTC] PHP Parse error:  syntax error, unexpected '$resultCentres' (T_VARIABLE) in /home/zerodiab/public_html/branchadmin/edit_allopathic_medicine.php on line 23
+[17-Feb-2020 06:30:48 UTC] PHP Parse error:  syntax error, unexpected '$resultCentres' (T_VARIABLE) in /home/zerodiab/public_html/branchadmin/edit_allopathic_medicine.php on line 23
+[17-Feb-2020 06:32:00 UTC] PHP Parse error:  syntax error, unexpected '$resultCentres' (T_VARIABLE) in /home/zerodiab/public_html/branchadmin/edit_allopathic_medicine.php on line 23
+[17-Feb-2020 06:52:23 UTC] PHP Parse error:  syntax error, unexpected '$resultCentres' (T_VARIABLE) in /home/zerodiab/public_html/branchadmin/edit_allopathic_medicine.php on line 23
+[17-Feb-2020 06:53:29 UTC] PHP Parse error:  syntax error, unexpected '$resultCentres' (T_VARIABLE) in /home/zerodiab/public_html/branchadmin/edit_allopathic_medicine.php on line 23
+[17-Feb-2020 06:54:10 UTC] PHP Parse error:  syntax error, unexpected '$resultCentres' (T_VARIABLE) in /home/zerodiab/public_html/branchadmin/edit_allopathic_medicine.php on line 23
+[17-Feb-2020 08:11:33 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/zerodiab/public_html/branchadmin/views_allopathic_medicine.php on line 350
+[17-Feb-2020 10:56:56 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/zerodiab/public_html/branchadmin/prescription_code.php on line 57
+[18-Feb-2020 09:44:10 UTC] PHP Parse error:  syntax error, unexpected '++' (T_INC), expecting variable (T_VARIABLE) or '{' or '$' in /home/zerodiab/public_html/branchadmin/view_prescription_detail.php on line 435
+[18-Feb-2020 09:47:02 UTC] PHP Parse error:  syntax error, unexpected '++' (T_INC), expecting variable (T_VARIABLE) or '{' or '$' in /home/zerodiab/public_html/branchadmin/view_prescription_detail.php on line 435
+[18-Feb-2020 18:02:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/zerodiab/public_html/branchadmin/edit_prescription_detail.php on line 600
+[18-Feb-2020 18:03:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/zerodiab/public_html/branchadmin/edit_prescription_detail.php on line 600
+[18-Feb-2020 18:03:21 UTC] PHP Parse error:  syntax error, unexpected '++' (T_INC), expecting variable (T_VARIABLE) or '{' or '$' in /home/zerodiab/public_html/branchadmin/view_prescription_detail.php on line 435
+[18-Feb-2020 19:04:40 UTC] PHP Warning:  Error while sending QUERY packet. PID=27847 in /home/zerodiab/public_html/branchadmin/login_code.php on line 23
+[18-Feb-2020 19:04:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/branchadmin/login_code.php on line 25
+[18-Feb-2020 19:04:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/branchadmin/login_code.php on line 27
+[18-Feb-2020 19:04:40 UTC] PHP Warning:  Error while sending QUERY packet. PID=26941 in /home/zerodiab/public_html/branchadmin/login_code.php on line 23
+[18-Feb-2020 19:04:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/branchadmin/login_code.php on line 25
+[18-Feb-2020 19:04:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/branchadmin/login_code.php on line 27
+[18-Feb-2020 19:04:40 UTC] PHP Warning:  Error while sending QUERY packet. PID=30495 in /home/zerodiab/public_html/branchadmin/login_code.php on line 23
+[18-Feb-2020 19:04:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/branchadmin/login_code.php on line 25
+[18-Feb-2020 19:04:40 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/branchadmin/login_code.php on line 27
+[18-Feb-2020 19:04:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/zerodiab/public_html/branchadmin/manage_prescription.php on line 11
+[18-Feb-2020 19:36:27 UTC] PHP Parse error:  syntax error, unexpected '++' (T_INC), expecting variable (T_VARIABLE) or '{' or '$' in /home/zerodiab/public_html/branchadmin/view_prescription_detail.php on line 435
+[19-Feb-2020 03:18:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/zerodiab/public_html/branchadmin/edit_prescription_detail.php on line 600
+[19-Feb-2020 03:18:49 UTC] PHP Parse error:  syntax error, unexpected '++' (T_INC), expecting variable (T_VARIABLE) or '{' or '$' in /home/zerodiab/public_html/branchadmin/view_prescription_detail.php on line 435
+[21-Feb-2020 13:23:52 UTC] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/zerodiab/public_html/branchadmin/prescription_code.php on line 45
+[21-Feb-2020 17:09:12 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/zerodiab/public_html/branchadmin/view_prescription_detail.php on line 1098
+[21-Feb-2020 17:09:17 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/zerodiab/public_html/branchadmin/view_prescription_detail.php on line 1098
+[21-Feb-2020 17:09:23 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/zerodiab/public_html/branchadmin/view_prescription_detail.php on line 1098
+[21-Feb-2020 17:12:04 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/zerodiab/public_html/branchadmin/view_prescription_detail.php on line 1098
+[21-Feb-2020 17:12:07 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/zerodiab/public_html/branchadmin/view_prescription_detail.php on line 1098
+[22-Feb-2020 10:08:22 UTC] PHP Warning:  sizeof(): Parameter must be an array or an object that implements Countable in /home/zerodiab/public_html/branchadmin/edit_allopathic_medicine_code.php on line 18
